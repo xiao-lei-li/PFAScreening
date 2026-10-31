@@ -1,0 +1,2 @@
+PFAS_CCS_Screening/models/*.joblib filter=lfs diff=lfs merge=lfs -text
+PFAS_CCS_Screening/**/*.exe filter=lfs diff=lfs merge=lfs -text
