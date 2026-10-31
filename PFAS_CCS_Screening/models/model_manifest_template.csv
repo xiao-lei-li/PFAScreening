@@ -1,0 +1,2 @@
+model_id,label,pos_path,neg_path,feature_cols,description,rimp1_uncertainty_percent,ccs_uncertainty_percent,pos_candidate_threshold,pos_high_confidence_threshold,neg_candidate_threshold,neg_high_confidence_threshold
+rf_example,RF-MC example,rf_example_POS.joblib,rf_example_NEG.joblib,"mz_percentile,mz,CCS,riMp1",Example model metadata,20,3,0.58,0.95,0.57,0.97

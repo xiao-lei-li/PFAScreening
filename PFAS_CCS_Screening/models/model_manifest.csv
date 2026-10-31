@@ -1,0 +1,2 @@
+model_id,label,pos_path,neg_path,feature_cols,description,rimp1_uncertainty_percent,ccs_uncertainty_percent,pos_candidate_threshold,pos_high_confidence_threshold,neg_candidate_threshold,neg_high_confidence_threshold
+rf_mc_rimp5_ccs3,RF-MC riMp1 +/-5% CCS +/-3%,rf_sklearn_bundle_rimp1_5_ccs_3_POS.joblib,rf_sklearn_bundle_rimp1_5_ccs_3_NEG.joblib,"mz_percentile,mz,CCS,riMp1,CCS_over_m,CCS_over_Mp1,M_over_Mp1,CCS_over_sqrtm,CCS_over_m23",RF-MC model validated with riMp1 +/-5% and CCS +/-3%,5,3,0.555,0.947,0.55875,0.976
